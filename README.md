@@ -1,6 +1,6 @@
 # Overdrive/Distortion/Fuzz Pedal
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
 This is a collection of documentation, schematics and CAD files for a DIY guitar
 effects pedal that tries to emulate the typical sound of the three main categories
@@ -36,4 +36,4 @@ for non commercial use.
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
