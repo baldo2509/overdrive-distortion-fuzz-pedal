@@ -2,9 +2,17 @@
 
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
-<img src="/Images/enclosure/dist_front.jpg" alt="Front of the pedal's enclosure; There are three knobs, labeled 'TONE', 'GAIN' and 'VOLUME';
-There are also two toggle switches: one is labeled with the words 'NORMAL'/'BOOST', the other with schematic symbols of a single diode/two diodes with opposite polarities." height="700"> <img
-src="/Images/perfboard/dist_board_finished.jpg" alt="Circuit board before mounting in pedal enclosure." height="700">
+<img
+	src="/Images/enclosure/dist_front.jpg"
+	alt="Front of the pedal's enclosure; There are three knobs, labeled 'TONE', 'GAIN' and 'VOLUME';
+		 There are also two toggle switches: one is labeled with the words 'NORMAL'/'BOOST', the other with schematic symbols of a single diode/two diodes with opposite polarities."
+	height="500"
+/> 
+<img
+	src="/Images/perfboard/dist_board_finished.jpeg"
+	alt="Circuit board before mounting in pedal enclosure." 
+	height="500"
+/>
 
 This is a collection of documentation, schematics and CAD files for a DIY guitar
 effects pedal that tries to emulate the three main categories of guitar distortion
