@@ -2,13 +2,16 @@
 
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
-This is a collection of documentation, schematics and CAD files for a DIY guitar
-effects pedal that tries to emulate the typical sound of the three main categories
-of guitar distortion effects (overdrive, distortion and fuzz) with one relatively
-simple circuit and set of controls.
+<img src="/Images/enclosure/dist_front.jpg" alt="Front of the pedal's enclosure; There are three knobs, labeled 'TONE', 'GAIN' and 'VOLUME';
+There are also two toggle switches: one is labeled with the words 'NORMAL'/'BOOST', the other with schematic symbols of a single diode/two diodes with opposite polarities." height="700"> <img
+src="/Images/perfboard/dist_board_finished.jpg" alt="Circuit board before mounting in pedal enclosure." height="700">
 
-The circuit also implements togglable waveform clipping mode and an auxillary gain
-stage, allowing the user to dial in extremely dirty fuzz tones.
+This is a collection of documentation, schematics and CAD files for a DIY guitar
+effects pedal that tries to emulate the three main categories of guitar distortion
+effects (overdrive, distortion and fuzz) with one simple circuit and set of controls.
+
+The circuit also implements togglable waveform clipping mode and an auxiliary gain
+stage, allowing the user to dial in extreme fuzz tones.
 
 ## Controls
 
@@ -20,8 +23,8 @@ stage, allowing the user to dial in extremely dirty fuzz tones.
 
 ### Switches
 
-* 'DIODE': Waveform clipping type (simmetrical vs asymmetrical);
-* BOOST: Enables/disables the auxillary gain stage;
+* 'DIODE': Waveform clipping type (symmetrical vs asymmetrical);
+* BOOST: Enables/disables the auxiliary gain stage;
 
 ## Credits
 
